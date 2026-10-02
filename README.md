@@ -1,9 +1,7 @@
-# Epoch-Chernarus-Package - Version 1.0
-
+# Epoch-Chernarus-Singleplayer Server
 ## Epoch-Version 1.0.7.1 Map: Chernarus
 
-- Without BattlEye filter. Edit BattlEye? No way!
-- My Server are only with Whitelist or Password. :-)
+- Without BattlEye filter.
 
 Have FUN!
 
@@ -25,12 +23,6 @@ ESSV3 | [GitHub repo](https://github.com/AirwavesMan/ESSV3)
 
 2. Copy the dayz_server.pbo folder to your Arma 2 OA@dayz_epoch_server\addons folder (use "PBO tool" for packing)
 
-
-## Epoch-Antihack-Admin-Tools
-
-1. Copy the files from "AdminTool_dll_ini.7z" to your Serverroot
-
-2. Edit the config.sqf in your Server.pbo in "\dayz_server\antihack\"
 
 ## ESSV3
 
@@ -79,7 +71,7 @@ steam://run/33930//-connect=99.999.999.99%20-port=2302%20-PASSWORD=password%20-m
 
 ## Contact
 
-epoch{at}posteo.de | No support for used mods! Send your Server-IP. I will visit you! ;-)
+https://steamcommunity.com/id/HotR0ad
 
 ## Licences
 
